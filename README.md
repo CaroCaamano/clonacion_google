@@ -2,10 +2,10 @@
 
 ## **INDEX**
 
-* [1. Intro] (#)
-* [2. What I built] (#)
-* [3. Objective project's] (#)
-* [4. Link a demo] (https://googleinterfazcloning.netlify.app)
+* [1. Intro](#)
+* [2. What I built](#)
+* [3. Objective project's](#)
+* [4. Link a demo](https://googleinterfazcloning.netlify.app)
 
 ****
 
