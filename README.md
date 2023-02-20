@@ -15,17 +15,16 @@ HTLM5 works hand in hand with CSS3 to create web pages that we use every day in 
 
 ## 2. What I built
 
-En este proyecto me enfoque en contruir la clonacion de la interfaz de google contiene las siguientes secciones:
+In this project I focus on building Google interface cloning. Contains the following sections:
 
-* **Header**: Seccion que involucra la foto de mi perfil, iconos y el menu con hipervinvulos 
+* **Header**: Section involving my profile picture, icons, and hyperlinked menu
 
-* **Main**: Seccion del contenedor para los elementos centraes de la pagina: logo, barra de busqyeda, iconos y botones
+* **Main**: Section of the container for the central elements of the page: logo, search bar, icons and buttons
 
-* ***Footer**: seccion que incluye hipervinculos de la pagina
+* ***Footer**: Section that includes hyperlinks from the page
 
 ## 3. Objective project's
+Learn how to use standard HTML5 tags and CSS3 styles 
 
-Aprender a utilizar las etqietas estandar de HTML5 y los estilos de CSS3
-
-## 4. Link a Demo
-Aqui puedes visualizar mi proyecto terminado [Clonacion de google](https://googleinterfazcloning.netlify.app)
+## 4. Link to Demo
+ Here you can view my finished project [Clonacion de google](https://googleinterfazcloning.netlify.app)
